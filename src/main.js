@@ -12,6 +12,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import components from '@/components/';
 
 
+
 const app = createApp(App)
 
 components.forEach(component => {
